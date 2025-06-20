@@ -28,7 +28,7 @@ android {
     if (project.android.hasProperty("namespace")) {
         namespace 'dev.steenbakker.mobile_scanner'
     }
-
+    namespace 'dev.steenbakker.mobile_scanner'
     compileSdk = 35
 
     compileOptions {
